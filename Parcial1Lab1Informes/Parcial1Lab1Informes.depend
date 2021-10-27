@@ -1,0 +1,106 @@
+# depslib dependency file v1.0
+1635341825 source:c:\users\loren\desktop\parcial1lab1informes\parcial1lab1informes\bike.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"bike.h"
+	"validations.h"
+	"menu.h"
+	"extras.h"
+
+1635341867 c:\users\loren\desktop\parcial1lab1informes\parcial1lab1informes\bike.h
+	"type.h"
+	"color.h"
+
+1635338561 c:\users\loren\desktop\parcial1lab1informes\parcial1lab1informes\type.h
+
+1635338561 c:\users\loren\desktop\parcial1lab1informes\parcial1lab1informes\color.h
+
+1635338561 c:\users\loren\desktop\parcial1lab1informes\parcial1lab1informes\validations.h
+
+1635341092 c:\users\loren\desktop\parcial1lab1informes\parcial1lab1informes\menu.h
+
+1635338561 c:\users\loren\desktop\parcial1lab1informes\parcial1lab1informes\extras.h
+
+1635338561 source:c:\users\loren\desktop\parcial1lab1informes\parcial1lab1informes\color.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"color.h"
+
+1635338561 source:c:\users\loren\desktop\parcial1lab1informes\parcial1lab1informes\extras.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"validations.h"
+
+1635341403 source:c:\users\loren\desktop\parcial1lab1informes\parcial1lab1informes\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"menu.h"
+	"extras.h"
+	"validations.h"
+
+1635338561 source:c:\users\loren\desktop\parcial1lab1informes\parcial1lab1informes\service.c
+	"service.h"
+
+1635338561 c:\users\loren\desktop\parcial1lab1informes\parcial1lab1informes\service.h
+
+1635338561 source:c:\users\loren\desktop\parcial1lab1informes\parcial1lab1informes\type.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"type.h"
+
+1635338561 source:c:\users\loren\desktop\parcial1lab1informes\parcial1lab1informes\validations.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"validations.h"
+
+1635342888 source:c:\users\loren\desktop\parcial1lab1informes\parcial1lab1informes\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"bike.h"
+	"type.h"
+	"color.h"
+	"service.h"
+	"work.h"
+	"extras.h"
+	"menu.h"
+
+1635341092 c:\users\loren\desktop\parcial1lab1informes\parcial1lab1informes\work.h
+	"bike.h"
+	"service.h"
+
+1635341092 source:c:\users\loren\desktop\parcial1lab1informes\parcial1lab1informes\work.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"work.h"
+	"validations.h"
+	"menu.h"
+	"extras.h"
+
+1635343107 source:c:\users\loren\desktop\parcial1lab1informes\parcial1lab1informes\informs.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"bike.h"
+	"type.h"
+	"color.h"
+	"service.h"
+	"work.h"
+	"informs.h"
+	"menu.h"
+	"extras.h"
+	"validations.h"
+
+1635342096 c:\users\loren\desktop\parcial1lab1informes\parcial1lab1informes\informs.h
+
